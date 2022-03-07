@@ -1,0 +1,11 @@
+D:\cat32tw\Desktop\apple\bin\Debug\apple.exe.config
+D:\cat32tw\Desktop\apple\bin\Debug\apple.exe
+D:\cat32tw\Desktop\apple\bin\Debug\apple.pdb
+D:\cat32tw\Desktop\apple\obj\Debug\apple.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\apple\obj\Debug\apple.csproj.SuggestedBindingRedirects.cache
+D:\cat32tw\Desktop\apple\obj\Debug\apple.Form1.resources
+D:\cat32tw\Desktop\apple\obj\Debug\apple.Properties.Resources.resources
+D:\cat32tw\Desktop\apple\obj\Debug\apple.csproj.GenerateResource.cache
+D:\cat32tw\Desktop\apple\obj\Debug\apple.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\apple\obj\Debug\apple.exe
+D:\cat32tw\Desktop\apple\obj\Debug\apple.pdb
